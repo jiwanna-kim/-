@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.larvf.com)",
+      "WebFetch(domain:www.wine-searcher.com)",
+      "WebFetch(domain:macave.carrefour.fr)",
+      "WebFetch(domain:sur-la-pointe.com)",
+      "WebFetch(domain:nouvellesgastronomiques.com)"
+    ]
+  }
+}
